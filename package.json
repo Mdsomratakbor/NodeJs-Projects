@@ -1,0 +1,22 @@
+{
+  "name": "node-practice-project",
+  "version": "1.0.0",
+  "description": "node js all practice project and example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdsomratakbor/NodeJs-Projects.git"
+  },
+  "author": "Md Somrat Akbor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdsomratakbor/NodeJs-Projects/issues"
+  },
+  "homepage": "https://github.com/Mdsomratakbor/NodeJs-Projects#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
